@@ -1,0 +1,6 @@
+{
+  "name": "VoxAgenda",
+  "description": "Agente personal interactivo con agenda de fechas importantes, lienzo de dibujo artístico por evento, recuerdos y alarmas con voz inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
